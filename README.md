@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋<br>I’m Alya, a passionate developer who loves building useful and creative projects.<br><br>💻 Currently working on: A cafe reservation website<br><br>🎓 Learning: Javascript , html and css<br><br>🔍 Interests:  Front-end design, web development, and improving user experiences<br><br>🌱 Always openned to learn new technologies and collaborate ion projects<br><br>📫 How to reach me:  alyasaya10@gmail.com<br>       <br>
+Hello! 👋<br>I’m a learning developer who’s eager to learn new things and loves working on projects and collaborating with others.<br><br>💻 Currently working on: A cafe reservation website<br><br>🎓 Learning: Javascript , html and css<br><br>🔍 Interests:  Front-end design, web development, and improving user experiences<br><br>🌱 Always openned to learn new technologies and collaborate ion projects<br><br>📫 How to reach me:  alyasaya10@gmail.com<br>       <br>
 
 
 ## 🌐 Socials:
